@@ -107,7 +107,7 @@ Soy un apasionado desarrollador de software con experiencia en una variedad de l
 
 <!-- Enlaces de redes sociales y correo electrónico -->
 <p align="center">
-  <a href="enlace a tu perfil de LinkedIn">
+  <a href="https://www.linkedin.com/in/santiago-illapa/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
   <a href="mailto:santiagoillapa@gmail.com">
